@@ -1,1 +1,11 @@
+gensim==4.3.3
+pyLDAvis==3.4.1
+wordcloud==1.9.4
+plotly==6.3.0
+openpyxl==3.1.5
+nltk
+pandas
+scikit-learn
+matplotlib
+seaborn
 
