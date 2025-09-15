@@ -23,3 +23,17 @@ Clone the repository and install dependencies:
 git clone https://github.com/rozaghaedi/Seeded-LDA-Grievance.git
 cd Seeded-LDA-Grievance
 pip install -r requirements.txt
+
+```
+
+---
+## Usage
+
+1- Open the Jupyter/Colab notebook:
+
+``` jupyter notebook SEEDED_LDA_Grievance_1.ipynb```
+
+
+2- Run the cells to preprocess text, train the model, and view results.
+
+3- Explore topics interactively in lda_interactive_visualization.html.
